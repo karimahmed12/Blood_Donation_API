@@ -27,8 +27,9 @@ DEBUG = True
 
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'atr-tykl.onrender.com']
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'atr-tykl.onrender.com']
 
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'django-ATR-API.com']
 
 # Application definition
 
